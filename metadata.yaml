@@ -1,11 +1,16 @@
 _repo: The-heritage-of-unrest_57017
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 57017-h/images/cover.jpg
 creator:
   author:
     agent_name: Overton, Gwendolen
     gutenberg_agent_id: '49145'
     url: http://www.gutenberg.org/2009/agents/49145
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/57017#The-heritage-of-unrest
 gutenberg_issued: '2018-04-21'
 gutenberg_type: Text
 identifiers:
